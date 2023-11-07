@@ -1,0 +1,14 @@
+D:\BE\ChessEngine\ChessEngine\obj\Debug\ChessEngine.csproj.AssemblyReference.cache
+D:\BE\ChessEngine\ChessEngine\obj\Debug\ChessEngine.csproj.SuggestedBindingRedirects.cache
+D:\BE\ChessEngine\ChessEngine\obj\Debug\ChessEngine.EndGame.resources
+D:\BE\ChessEngine\ChessEngine\obj\Debug\ChessEngine.Gui.resources
+D:\BE\ChessEngine\ChessEngine\obj\Debug\ChessEngine.Promotion.resources
+D:\BE\ChessEngine\ChessEngine\obj\Debug\Chess.Properties.Resources.resources
+D:\BE\ChessEngine\ChessEngine\obj\Debug\ChessEngine.StartDialog.resources
+D:\BE\ChessEngine\ChessEngine\obj\Debug\ChessEngine.csproj.GenerateResource.cache
+D:\BE\ChessEngine\ChessEngine\obj\Debug\ChessEngine.csproj.CoreCompileInputs.cache
+D:\BE\ChessEngine\ChessEngine\obj\Debug\Chess.exe
+D:\BE\ChessEngine\ChessEngine\obj\Debug\Chess.pdb
+D:\BE\ChessEngine\ChessEngine\bin\Debug\Chess.exe.config
+D:\BE\ChessEngine\ChessEngine\bin\Debug\Chess.exe
+D:\BE\ChessEngine\ChessEngine\bin\Debug\Chess.pdb
